@@ -1,0 +1,11 @@
+{
+  "name": "SRCA RCN",
+  "short_name": "SRCA RCN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#f8fbff",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "SRCA RCN operational guide platform."
+}
